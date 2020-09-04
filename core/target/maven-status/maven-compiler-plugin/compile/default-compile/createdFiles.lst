@@ -1,0 +1,4 @@
+br\com\andrelake\core\model\Course.class
+br\com\andrelake\core\model\Course$CourseBuilder.class
+br\com\andrelake\core\repository\CourseRepository.class
+br\com\andrelake\core\model\AbstractEntity.class
